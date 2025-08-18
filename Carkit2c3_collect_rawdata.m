@@ -74,10 +74,6 @@ end
 % also set.
 seq_file_A =  '../../ramp_designs/ddm_0.2m_512_384_primary';
 seq_file_B =  '../../ramp_designs/ddm_0.2m_512_384_secondary';
-% seq_file_A =  '../../ramp_designs/ddm_0.2m_512_384_test_primary';
-% seq_file_B =  '../../ramp_designs/ddm_0.2m_512_384_test_secondary';
-% seq_file_A =  '../../ramp_designs/ddm_0.4m_512_384_test_primary';
-% seq_file_B =  '../../ramp_designs/ddm_0.4m_512_384_test_secondary';
 % seq_file_A =  '../../ramp_designs/ddm_ccm_0.45m_512_384_primary';
 % seq_file_B =  '../../ramp_designs/ddm_ccm_0.45m_512_384_secondary';
 % seq_file_A =  '../../ramp_designs/ddm_ccm_0.75m_512_384_primary';

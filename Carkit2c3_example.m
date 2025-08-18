@@ -22,7 +22,7 @@ run('../../ram_fw/addRamFwPath_91.m');
 % This section creates the interface objects for the board, the mmic and
 % the board extension
 board = strata.Connection.withAutoAddress();    % default setup
-% board = strata.Connection.withAutoAddress([10, 132, 174, 232]); 
+% board = strata.Connection.withAutoAddress([169, 254, 1, 101]); 
 
 [vid, pid]     = board.getIds();
 boardName      = strata.BoardIdentifier.getBoardName(vid, pid);
